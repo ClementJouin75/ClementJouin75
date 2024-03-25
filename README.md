@@ -1,7 +1,7 @@
 ### Hello, welcome to my github page where you can find all my projects👋
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ClementJouin75&show_icons=true&theme=dark&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementJouin75&theme=blue) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementJouin75&theme=white) 
 
 - ⚡ I'm currently studying to become an engineer in the field of communicating embedded systems. 
 - 🌱 I learn languages such as c, c++, c# or python as part of the embedded systems I study
